@@ -7,8 +7,8 @@ This repository contains the weekly practical programming assignments and lab ex
 ## Week 2: Development Environment and First Java Program
 
 ### Student Information
-- Name: MABIFA HUSSEIN
-- Matriculation Number: 25/18084
+- Name: ADEBISI DANIEL OLUWAFERANMI
+- Matriculation Number: 25/18032
 - Programme: COMPUTER SCIENCE
 - Course: COS 201
 - Week: 2
@@ -44,8 +44,8 @@ I practised creating, compiling and running a Java program and submitting source
 ## Week 3: Variables, Data Types, Expressions and Input/Output
 
 ### Student Information
-- Name: MABIFA HUSSEIN
-- Matriculation Number: 25/18084
+- Name: ADEBISI DANIEL OLUWAFERANMI
+- Matriculation Number: 25/18032
 - Programme: COMPUTER SCIENCE
 - Course: COS 201
 - Week: 3
